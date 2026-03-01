@@ -1,13 +1,30 @@
 <h1 align="center">Hi there, I'm Sriram </h1>
-<h3 align="center">A passionate Full Stack Developer & Machine Learning Enthusiast</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=indukurisriram&label=Profile%20views&color=0e75b6&style=flat" alt="indukurisriram" /> </p>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&lines=Full+Stack+Developer;Machine+Learning+Engineer;Open+Source+Contributor" alt="Typing SVG" />
+</h3>
 
+<p align="center">
+  <a href="https://linkedin.com/in/indukurisriram" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/indukurisriram" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:indukurisriramvarma@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=indukurisriram&label=Profile%20views&color=0e75b6&style=flat" alt="indukurisriram" /> 
+</p>
+
+- I’m a **Software Engineer** specializing in **Frontend**, **Backend**, and **Machine Learning**.
 - I’m currently working on building scalable web applications and exploring ML models.
 - I’m currently learning advanced topics in **Deep Learning** and **Cloud Architecture**.
 - I’m looking to collaborate on Open Source projects related to Full Stack Development or AI/ML.
 - Ask me about **React, Node.js, Python, or Machine Learning algorithms**.
-- How to reach me: **indukurisriramvarma@gmail.com**
 - Fun fact: I love automating things and turning data into actionable insights!
 
 ---
