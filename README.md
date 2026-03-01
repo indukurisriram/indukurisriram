@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Sriram </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&lines=Full+Stack+Developer;Machine+Learning+Engineer;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&lines=Full+Stack+Developer;Machine+Learning+Engineer" alt="Typing SVG" />
 </h3>
 
 <p align="center">
@@ -23,7 +23,6 @@
 - I’m a **Software Engineer** specializing in **Frontend**, **Backend**, and **Machine Learning**.
 - I’m currently working on building scalable web applications and exploring ML models.
 - I’m currently learning advanced topics in **Deep Learning** and **Cloud Architecture**.
-- I’m looking to collaborate on Open Source projects related to Full Stack Development or AI/ML.
 - Ask me about **React, Node.js, Python, or Machine Learning algorithms**.
 - Fun fact: I love automating things and turning data into actionable insights!
 
